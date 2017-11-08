@@ -9,7 +9,6 @@ import android.os.Bundle;
 
 import java.util.UUID;
 
-/**/
 
 public class CrimeActivity extends SingleFragmentActivity {
 
